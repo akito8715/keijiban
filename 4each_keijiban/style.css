@@ -1,0 +1,154 @@
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+img .logo{
+    width: 100px;
+    height: 30px;
+}
+header{
+    margin-top: 35px;
+    width: 100%;
+    height: 60px;
+    color: white;
+    background-color: black;
+}
+header ul{
+    float: left;
+    line-height: 30px;
+    padding-left: 60px;
+}
+header ul li{
+    float: left;
+    list-style: none;
+    padding-left: 60px;
+    color: white;
+    font-size: 20px;
+}
+main{
+    clear: both;
+    margin-bottom: 60px;
+}
+.left{
+    float: left;
+    width: 75%;
+}
+h1{
+    border-left: 6px solid  black;
+    border-bottom: 3px solid black;
+    margin-left: 5px;
+    margin-top: 30px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    padding-left: 15px;
+    color: black;
+    font-size: 40px;
+    width: 95%;
+}
+.abc{
+    background-color: #f1f1f1;
+    border: 3px solid lightgray;
+    border-radius: 20px;
+    margin-left: 7px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 8px;
+    padding-bottom: 20px;
+    width: 95%;
+}
+.abc h2{
+    border-left: 4px red solid;
+    margin-left: 10px;
+    padding-left: 8px;
+    font-size: 20px;
+    
+}
+form div{
+    margin-left: 3px;
+    margin-top: 20px;
+    
+}
+.text,textarea,.dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+.kiji{
+    background-color: #f1f1f1;
+    border: 3px solid lightgray;
+    border-radius: 20px;
+    margin-left: 7px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-bottom: 15px;
+    width: 95%;
+}
+h3{
+    margin-left: 13px;
+}
+.contents{
+    margin-left: 8px;
+    margin-bottom: 7px;
+    font-size: 16px;
+}
+.handlename{
+    margin-left: 8px;
+    font-size: 13px;
+}
+.right{
+    float: left;
+    width: 25%;
+    margin-top: 67px;
+}
+.ninki h4{
+    font-size: 23px;
+    border-bottom: 3px dotted gray;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.ninki p {
+    font-size: 15px;
+    margin-left: 15px;
+    line-height: 15px;
+}
+.link h4{
+    font-size: 23px;
+    border-bottom: 3px dotted gray;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}    
+.link p{
+    font-size: 15px;
+    margin-left: 15px;
+    line-height: 15px;    
+}
+.category h4{
+    border-bottom: 3px dotted gray;
+    width: 90%;
+    margin-top: 20px;    
+}
+.category p{
+    font-size: 15px;
+    margin-left: 15px;
+    line-height: 15px;    
+}    
+footer{
+    clear: both;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}
